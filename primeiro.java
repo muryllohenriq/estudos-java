@@ -7,8 +7,11 @@ class MeuPrimeiroProgramaJava
         //declaração de variáveis
         String frase = "Muryllo Henrique";
         String curso = "Ciência da Computação";
+        // inteiro
         int inteiro = 20;
+        // caractere
         char caracter = 'M';
+        // real
         double peso = 57.5;
         double real = 1.84;
         boolean VF = true;
