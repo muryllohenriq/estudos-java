@@ -1,4 +1,4 @@
-class Programa04 {
+class Prog04 {
     public static void main (String entrada[]) {
         int n1, n2;
         int mod, div;
